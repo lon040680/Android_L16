@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SHU",
+    "age": "19",
+    "phone": "2233889",
+    "email": "11111@11.com"
+  },
+  {
+    "name": "ABC",
+    "age": "20",
+    "phone": "2892222",
+    "email": "22222@22.com"
+  },
+  {
+    "name": "CHUNG",
+    "age": "25",
+    "phone": "2757222",
+    "email": "22562@22.com"
+  },
+  {
+    "name": "WHITE",
+    "age": "22",
+    "phone": "2382222",
+    "email": "2435622@33.com"
+  }
+]
